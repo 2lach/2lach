@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Find me on: [twitter](https://twitter.com/2lach) · [linkedin](https://www.linkedin.com/in/slachmann/) · [email](mailto:stefanlachmann@hotmail.com)
 - ⚡ Fun fact: I got a smaller size in slippers than in shoes 
 
-<a href="[https://github.com/2lach](https://github.com/2lach)">
-  <img height="160em" src="[https://github-readme-stats.vercel.app/api?username=2lach&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue](https://github-readme-stats.vercel.app/api?username=2lach&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue)">
-  <img height="160em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=2lach&layout=compact&theme=vue](https://github-readme-stats.vercel.app/api/top-langs/?username=2lach&layout=compact&theme=vue)">
+<a href="https://github.com/2lach">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=2lach&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2lach&layout=compact&theme=vue">
 </a>
