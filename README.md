@@ -1,6 +1,34 @@
-### Greetings pilgrim 👋
+## Greetings pilgrim 👋
 
+- :sparkles: I'am a Web developer with dev-opsy/sysadmin tendencies.
+
+- 🏠 Based in Stockholm, Sweden.
+- :briefcase: Working as "Lead application developer"
+- 🗨️ What I tell people: "I break stuff on the internet"
+
+- :hammer_and_wrench: Mostly writes code in: JavaScript, Node.js (and various web tech)
+- 🧰 enjoys shell scripting
+- 🕶️ and 🐧 and ☁️ stuff.
+
+<!-- - ⚡ Fun fact: If i could be an animal i wouldn't mind being an orangutan 🧡 -->
+
+- 📫 How to reach me: 
+  · [Email](mailto:stefanlachmann@hotmail.com)
+- ❔ More info:
+  · [Linkedin](https://www.linkedin.com/in/slachmann/) 
+  · [Twitter](https://twitter.com/2lach)
+  . [2lach.com](https://2lach.com)
+
+  <!-- theme= dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!--
+
+<a href="https://github.com/2lach">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=2lach&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=onedark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2lach&layout=compact&theme=onedark">
+</a>
+
+
+
 **2lach/2lach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,26 +40,36 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+<br/>
+<b>Uses</b>
+- 🌸 <i>OS:</i> MacOS and Debian
 
--->
+- 💻 <i>Laptop: </i> Macbook Pro
 
-- :sparkles: I'am a Web developer with dev-opsy + sysadmin tendencies.
+- 🔍 <i>Browser: </i> Chrome, Brave, Firefox
 
-- :earth_africa: Based in Stockholm, Sweden.
+- 🔲 <i>Terminal </i> iTerm2
 
-- :briefcase: Working as (fancy) title: "Lead application developer". What I tell people: "I break stuff on the internet"
+- 🔧 <i>Code Editor:</i> VSCode, (n)Vim
 
-- :hammer_and_wrench: Mostly code in JS/Node.js, ☁️ stuff, shell scripting and cloud stuff.
 
-- 📫 How to reach me: Find me on: 
-  · [twitter](https://twitter.com/2lach) 
-  · [linkedin](https://www.linkedin.com/in/slachmann/) 
-  · [email](mailto:stefanlachmann@hotmail.com)
 
-<!-- 
-- ⚡ Fun fact: I got a smaller size in slippers than in shoes 
--->
-<a href="https://github.com/2lach">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=2lach&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2lach&layout=compact&theme=vue">
-</a>
+
+Get more stuff here:
+https://github.com/anuraghazra/github-readme-stats
+
+--------- 
+<details>	
+from : https://github.com/kura
+ * Themes
+    * [Eevee](https://kura.gg/eevee) ([repo](https://github.com/kura/eevee))
+    * [Hauntr](https://kura.gg/hauntr) ([repo](https://github.com/kura/hauntr))
+    * [Ghastly](https://kura.gg/ghastly) ([repo](https://github.com/kura/ghastly))
+  * Plugins/packages/tools
+    * [Lightbox](https://kura.gg/lightbox) ([repo](https://github.com/kura/lightbox))
+    * [Pelican YouTube](https://kura.gg/pelican-youtube) ([repo](https://github.com/kura/pelican_youtube))
+    * [Pelican Vimeo](https://kura.gg/pelican-vimeo) ([repo](https://github.com/kura/pelican_vimeo))
+    * [Pelican GitHub Projects](https://kura.gg/pelican-githubprojects) ([repo](https://github.com/kura/pelican-githubprojects))
+    * [Pelican FontAwesome](https://kura.gg/pelican-fontawesome) ([repo](https://github.com/kura/pelican-fontawesome))
+</details>
+--> 
