@@ -7,17 +7,15 @@
 - 🗨️ What I tell people: "I break stuff on the internet"
 
 - :hammer_and_wrench: Mostly writes code in: JavaScript, Node.js (and various web tech)
-- 🧰 enjoys shell scripting
-- 🕶️ and 🐧 and ☁️ stuff.
-
-<!-- - ⚡ Fun fact: If i could be an animal i wouldn't mind being an orangutan 🧡 -->
+- 🧰 Enjoys automation and ☁️ stuff
+- ⚡ Fun fact: If i could be an animal i wouldn't mind being an Orangutan 🧡 
 
 - 📫 How to reach me: 
   · [Email](mailto:stefanlachmann@hotmail.com)
 - ❔ More info:
   · [Linkedin](https://www.linkedin.com/in/slachmann/) 
   · [Twitter](https://twitter.com/2lach)
-  . [2lach.com](https://2lach.com)
+  · [2lach.com](https://2lach.com)
 
 <a href="https://github.com/2lach">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=2lach&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=onedark">
