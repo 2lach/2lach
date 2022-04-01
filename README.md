@@ -1,6 +1,6 @@
 ## Greetings pilgrim 👋
 
-- :sparkles: I'am a Web developer with dev-opsy/sysadmin tendencies.
+- :sparkles: I'am a Web developer with DevOps tendencies.
 
 - 🏠 Based in Stockholm, Sweden.
 - :briefcase: Working as "Lead application developer"
@@ -8,7 +8,7 @@
 
 - :hammer_and_wrench: Mostly writes code in: JavaScript, Node.js (and various web tech)
 - 🧰 enjoys shell scripting
-- 🕶️ and 🐧 and ☁️ stuff.
+- Looking int 🐧 (Linux) and ☁️ (Cloud) stuff.
 
 <!-- - ⚡ Fun fact: If i could be an animal i wouldn't mind being an orangutan 🧡 -->
 
