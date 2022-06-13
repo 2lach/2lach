@@ -5,7 +5,7 @@
 - 🗨️ What I tell people: "I break stuff on the internet"
 -->
 - 🏠 Based in Stockholm, Sweden.
-- :briefcase: Working as "Lead application developer"
+- :briefcase: Working as "Cloud Consultant/DevOps engineer"
 
 - :hammer_and_wrench: Mostly writes code in: Web tech
 - 🧰 enjoys shell scripting (bash/zsh) and automation
