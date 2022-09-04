@@ -9,7 +9,7 @@
 
 - :hammer_and_wrench: Mostly writes code in: Web tech
 - 🧰 enjoys shell scripting (bash/zsh) and automation
-- Looking into 🐧 (Linux) and ☁️ (Cloud) stuff.
+- Looking into 🐧 and ☁️ and kube based stuff.
 
 <!-- - ⚡ Fun fact: If i could be an animal i wouldn't mind being an orangutan 🧡 -->
 
