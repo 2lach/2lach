@@ -5,11 +5,11 @@
 - 🗨️ What I tell people: "I break stuff on the internet"
 -->
 - 🏠 Based in Stockholm, Sweden.
-- :briefcase: Working as "Cloud Consultant/DevOps engineer"
+- :briefcase: Working as "DevOps engineer/Developer"
 
-- :hammer_and_wrench: Mostly writes code in: Web tech
+- :hammer_and_wrench: Mostly Web development & Dev Ops 
 - 🧰 enjoys shell scripting (bash/zsh) and automation
-- Looking into 🐧 and ☁️ and kube based stuff.
+- Often with Linux and Azure ☁️, Docker & Kubernetes.
 
 - ⚡ Fun fact: If i could be an animal i wouldn't mind being an orangutan 🧡
 - 📫 How to reach me: 
@@ -18,12 +18,12 @@
   · [Linkedin](https://www.linkedin.com/in/slachmann/) 
   · [Twitter](https://twitter.com/2lach)
   . [2lach.com](https://2lach.com)
-<!-- 
+
 <a href="https://github.com/2lach">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=2lach&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=onedark">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2lach&layout=compact&theme=onedark">
 </a>
- -->
+
 
   <!-- theme= dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!--
