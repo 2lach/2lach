@@ -5,11 +5,11 @@
 - 🗨️ What I tell people: "I break stuff on the internet"
 -->
 - 🏠 Based in Stockholm, Sweden.
-- :briefcase: Working as DevOps engineer & Web Developer
+- :briefcase: Working as DevOps engineer
 
-- :hammer_and_wrench: Mostly Web development & Dev Ops 
+- :hammer_and_wrench: Mostly Web & Ops 
 - 🧰 enjoys shell scripting (bash/zsh) and automation
-- Often with Linux, Azure ☁️, Docker & Kubernetes.
+- Often with Linux, MS Azure, containers & Kubernetes.
 
 - ⚡ Fun fact: If i could be an animal i wouldn't mind being an orangutan 🧡
 - 📫 How to reach me: 
