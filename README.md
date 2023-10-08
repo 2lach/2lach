@@ -5,13 +5,12 @@
 - 🗨️ What I tell people: "I break stuff on the internet"
 -->
 - 🏠 Based in Stockholm, Sweden.
-- :briefcase: Working as DevOps engineer
+- :briefcase: Working as Team Lead | Developer/DevOps engineer
 
 - :hammer_and_wrench: Mostly Web & Ops 
-- 🧰 enjoys shell scripting (bash/zsh) and automation
-- Often with Linux, MS Azure, containers & Kubernetes.
+- 🧰 Enjoys shell scripting and automation
+- 🌱 Often with Docker, containers & Kubernetes.
 
-- ⚡ Fun fact: If i could be an animal i wouldn't mind being an orangutan 🧡
 - 📫 How to reach me: 
   · [Email](mailto:stefanlachmann@hotmail.com)
 - ❔ More info:
@@ -20,7 +19,6 @@
   . [2lach.com](https://2lach.com)
 
 <a href="https://github.com/2lach">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=2lach&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=onedark">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2lach&layout=compact&theme=onedark">
 </a>
 
@@ -57,7 +55,7 @@ Here are some ideas to get you started:
 
 
 
-
+docs:
 Get more stuff here:
 https://github.com/anuraghazra/github-readme-stats
 
