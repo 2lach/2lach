@@ -1,15 +1,15 @@
-## Greetings pilgrim 👋
+## Greetings pilgrim 👊
 
 <!--
 - :sparkles: I'am a Web developer with DevOps tendencies.
 - 🗨️ What I tell people: "I break stuff on the internet"
 -->
 - 🏠 Based in Stockholm, Sweden.
-- :briefcase: Working as Team Lead | Developer/DevOps engineer
+- :briefcase: Working as Team Lead | Developer/DevOps
 
 - :hammer_and_wrench: Mostly Web & Ops 
 - 🧰 Enjoys shell scripting and automation
-- 🌱 Often with Docker, containers & Kubernetes.
+- 🌱 Often with containers & pipelines
 
 - 📫 How to reach me: 
   · [Email](mailto:stefanlachmann@hotmail.com)
@@ -18,10 +18,16 @@
   · [Twitter](https://twitter.com/2lach)
   . [2lach.com](https://2lach.com)
 
-<a href="https://github.com/2lach">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2lach&layout=compact&theme=onedark">
-</a>
+# 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2lach&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=2lach&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=2lach&theme=highcontrast&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=2lach&theme=flat)
 
   <!-- theme= dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!--
