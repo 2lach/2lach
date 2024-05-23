@@ -29,7 +29,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2lach&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=2lach&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=2lach&theme=highcontrast&hide_border=false)<br/>
 
@@ -38,7 +38,7 @@
 
   <!-- theme= dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!--
-
+![](https://github-readme-stats.vercel.app/api?username=2lach&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 
